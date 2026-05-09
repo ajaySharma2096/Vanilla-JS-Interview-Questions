@@ -193,7 +193,7 @@ This repository is open for learning and educational purposes. You can add an of
 **Ajay Sharma**  
 Frontend / Full Stack Developer
 
-GitHub: https://github.com/ajaysharma3423
+GitHub: https://github.com/ajaySharma2096
 
 ---
 
