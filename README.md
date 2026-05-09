@@ -105,7 +105,7 @@ Each problem solution can contain:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ajaySharma2096/Vanila-JS.git
+git clone https://github.com/ajaySharma2096/Vanilla-JS-Interview-Questions.git
 ```
 
 ### 2. Open the project
